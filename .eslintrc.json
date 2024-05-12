@@ -1,12 +1,11 @@
 {
   "extends": "next/core-web-vitals",
   "rules": {
-    // You can add custom rules or override the default settings here
-    "react/react-in-jsx-scope": "off", // Next.js automatically imports React where JSX is used
-    "indent": ["error", 2], // Enforces 2 space indent
-    "no-unused-vars": "warn", // Warns about variables that are declared but not used
-    "semi": ["error", "always"], // Requires semicolons at the end of statements
-    "quotes": ["error", "double", { "allowTemplateLiterals": true }], // Enforce double quotes
-    "react/prop-types": "off" // Disables prop-types rule, useful if you're using TypeScript
+    "react/react-in-jsx-scope": "off", 
+    "indent": ["error", 2],
+    "no-unused-vars": "warn", 
+    "semi": ["error", "always"], 
+    "quotes": ["error", "double", { "allowTemplateLiterals": true }], 
+    "react/prop-types": "off" 
   }
 }
