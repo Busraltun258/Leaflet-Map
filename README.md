@@ -1,6 +1,5 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-Deploy : https://leaflet-map-txwj-8f3qxga4b-busraltun258s-projects.vercel.app/
+Deploy : [https://leaflet-map-txwj.vercel.app/](https://leaflet-map-txwj.vercel.app/)
 
 Genel Bakış
 Bu proje, haritalama işlevleri için Leaflet ile entegre edilmiş ve kullanıcı girişleri ile kayıtlarını yönetmek için Firebase Kimlik Doğrulama kullanılan bir web uygulamasıdır. Kullanıcılar, giriş yaptıktan sonra statik işaretçilerle haritayı görüntüleyebilir, yeni işaretçiler ekleyebilir ve mevcut işaretçileri silebilirler. Uygulama, hem giriş hem de kayıt işlevselliği sağlar.
